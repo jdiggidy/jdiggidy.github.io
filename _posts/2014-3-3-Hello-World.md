@@ -3,8 +3,10 @@ layout: post
 title: Welcome to my blog. Enjoy reading; if not, go away.
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+So this is my blog.  These words are the ramblings of an imposter.  In this blog I'll include projects and products I'm working on, as well as 
+information that I find interesting.  My interests are varied and include fly fishing, software development, grilling, adoption, and anything
+else I feel like writing about.  I hope you find it interesting.  I don't actually care if you don't.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Peace out.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
